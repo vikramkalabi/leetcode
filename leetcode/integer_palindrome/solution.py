@@ -7,9 +7,12 @@ class Solution:
             return False
 
         r = 0
-        while x > r:  # before half way x is always > r
+        n = x
+        while x > 0:  # before half way x is always > r
             r = r * 10 + (x % 10)
             x //= 10
 
-        return x == r
+        return n == r
 
+    def solution2(self, x):
+        return str(x) == str(x)[::-1]

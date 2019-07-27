@@ -7,3 +7,4 @@
 - [Longest Substring Without Repeating Characters](./leetcode/longest_substring/README.md)
 - [Median of Two Sorted Arrays](./leetcode/median_two_sorted_arrays/README.md)
 - [Reverse Integer](./leetcode/reverse_integer/README.md)
+- [Roman to Integer](./leetcode/roman_to_integer/README.md)
