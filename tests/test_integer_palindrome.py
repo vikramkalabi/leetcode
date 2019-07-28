@@ -1,4 +1,5 @@
 import pytest
+
 from leetcode.integer_palindrome import Solution
 
 
