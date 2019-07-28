@@ -2,7 +2,7 @@
 
 ### Index
 
-- [Two sum](./leetcode/two_sum/README.md)
+- [Two Sum](./leetcode/two_sum/README.md)
 - [Add Two Numbers](./leetcode/add_two_numbers/README.md)
 - [Integer Palindrome](./leetcode/integer_palindrome/README.md)
 - [Longest Substring Without Repeating Characters](./leetcode/longest_substring/README.md)
@@ -12,4 +12,4 @@
 - [Longest Common Prefix](./leetcode/longest_common_prefix/README.md)
 - [Merge Two Sorted Lists](./leetcode/merge_two_sorted_lists/README.md)
 - [Valid Parenthesis](./leetcode/valid_parenthesis/README.md)
-- [Remove duplicates form sorted array](../solution/remove_duplicates_sorted_array/README.md)
+- [Remove Duplicates Form Sorted Array](./leetcode/remove_duplicates_sorted_array/README.md)
